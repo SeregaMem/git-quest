@@ -1,2 +1,6 @@
 ﻿  HelloWorld.cpp
+<<<<<<< HEAD
   HelloWorld.vcxproj -> E:\git-project\User2\git-quest\Debug\HelloWorld.exe
+=======
+  HelloWorld.vcxproj -> E:\git-project\User1\git-quest\Debug\HelloWorld.exe
+>>>>>>> e8bbfcd1fa47545349f47f1637269781826749eb

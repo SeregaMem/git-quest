@@ -2,7 +2,11 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+<<<<<<< HEAD
       <FullPath>E:\git-project\User2\git-quest\Debug\HelloWorld.exe</FullPath>
+=======
+      <FullPath>E:\git-project\User1\git-quest\Debug\HelloWorld.exe</FullPath>
+>>>>>>> e8bbfcd1fa47545349f47f1637269781826749eb
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

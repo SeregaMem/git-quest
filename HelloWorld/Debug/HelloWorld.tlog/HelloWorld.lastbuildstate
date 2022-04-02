@@ -1,2 +1,6 @@
 PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.29.30133:TargetPlatformVersion=10.0.19041.0:
+<<<<<<< HEAD
 Debug|Win32|E:\git-project\User2\git-quest\|
+=======
+Debug|Win32|E:\git-project\User1\git-quest\|
+>>>>>>> e8bbfcd1fa47545349f47f1637269781826749eb
